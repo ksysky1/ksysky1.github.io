@@ -2,10 +2,10 @@
 title: 강승연의 blog
 description: 제주대학교 컴퓨터교육과 2020104123
 url: https://ksysky1.github.io
-avatar: /avatar.jpeg
+avatar: /usa_sunflower.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /usa_costco.jpg
 
 # Gems
 plugins:
