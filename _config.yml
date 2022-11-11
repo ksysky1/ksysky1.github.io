@@ -1,6 +1,6 @@
 # Setup
 title: 강승연의 blog
-description: 제주대학교 컴퓨터교육과 2020104123
+description: Computer Education 공부기록
 url: https://ksysky1.github.io
 avatar: /usa_sunflower.jpg
 paginate: 5
@@ -36,7 +36,7 @@ social:
   name: Kang Seungyeon
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/ksysky1
 google_site_verification: xxxxx
 lang: en
 
