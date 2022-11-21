@@ -28,14 +28,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: ksysky1
-  card: summary
-logo: logo.png
+# twitter:
+#   username: ksysky1
+#   card: summary
+# logo: logo.png
 social:
   name: Kang Seungyeon
   links:
-    - https://twitter.com/vszhub
+//    - https://twitter.com/vszhub
     - https://github.com/ksysky1
 google_site_verification: xxxxx
 lang: en
