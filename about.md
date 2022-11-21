@@ -9,7 +9,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 **Information**
 
 * **학력**
-  - 제주중앙여자고등학교 졸업 (2020년)
+  - 제주중앙여자고등학교 졸업 (2019년)
   - 제주대학교 컴퓨터교육과 재학중 (2020년 ~ 현재)
 
 * **진행한 프로젝트**
