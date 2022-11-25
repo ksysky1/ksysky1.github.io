@@ -20,7 +20,7 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 * **Github**
   - [ksysky1.github](https://github.com/ksysky1)
 
-*  **Blog**
+* **Blog**
   - https://ksysky1.github.io/
 
 * **진행한 프로젝트**
