@@ -1,16 +1,27 @@
 ---
 layout: page
-title: About
+title: Portfolio
 ---
 
 <!-- **Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
 For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file. -->
-**Information**
 
-* **학력**
+* **이름** : 강승연
+
+* **Profile**
+  - Birth : 2000.12.28
   - 제주중앙여자고등학교 졸업 (2019년)
   - 제주대학교 컴퓨터교육과 재학중 (2020년 ~ 현재)
+
+* **Contact**
+  - ksy203205@naver.com
+  
+* **Github**
+  - [ksysky1.github](https://github.com/ksysky1)
+
+*  **Blog**
+  - https://ksysky1.github.io/
 
 * **진행한 프로젝트**
   - 파이썬 멀티 스캐너 프로그램 개발(스캐너 기능 외에 회전 기능, OCR 기능, 그림 그리기 기능 추가 구현)
