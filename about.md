@@ -26,10 +26,14 @@ For more information about Not Pure Poole, please browse the [README](https://gi
 * **진행한 프로젝트**
   - 파이썬 멀티 스캐너 프로그램 개발(스캐너 기능 외에 회전 기능, OCR 기능, 그림 그리기 기능 추가 구현)
     - python openCV, tesseract  
+    ![pr1.png](pr1.png)
   - SW융합캡스톤디자인 1 : YOLOv3 모델 기반 청소년 식이 질환에 대한 식단 교정 앱 개발
     - Darknet 신경망 프레임워크, YOLOv3 모델, AI Hub 데이터셋, Kotlin
+    ![pr2.png](pr2.png)
   - SW융합캡스톤디자인 2 : 초등학생의 프로그래밍 및 요리 실습 융합 수업을 위한 VR 프로그램 개발
     - Unity, C#, Oculus Quest2
+    ![pr3-1.png](pr3-1.png)
+    ![pr3-2.png](pr3-2.png)
 
 * **경력사항**
   - 교육봉사활동 60시간 멘토(제일지역아동센터 30시간, 더불어숲지역아동센터 30시간)(2020년)
